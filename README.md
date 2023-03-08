@@ -7,3 +7,6 @@ print("output-- "Text[::-1])
 
 Enter Text: abcd
 output-- dcba
+
+#Inuput from Sairam
+#Happy Women's Day
